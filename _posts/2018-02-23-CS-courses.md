@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Computer Science courses I have completed"
-date: 2018-02-23
 excerpt: "See a list of computer science courses that I have completed, in school and on MOOCs."
 tags: [Computer Science]
+no_date: true
 comments: false
 ---
 

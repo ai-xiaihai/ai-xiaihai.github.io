@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Frank
-tags: [about, Jekyll, theme, moon]
+title: An overview of Frank
+tags: []
 date: 2018-02-23
 comments: false
 ---
@@ -15,7 +15,7 @@ comments: false
 [Teaching Assistant & Grader](){: .btn}
 
 ## Research
-[Multi-agent Simulation & Dynamic Ride-sharing]({{url}}/Summer-Research){: .btn}
+[Multi-agent Simulation & Dynamic Ride-sharing]({{site.url}}/Summer-Research){: .btn}
 
 ## Education
 [BA, Oberlin College](){: .btn}

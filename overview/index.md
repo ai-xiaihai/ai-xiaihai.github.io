@@ -12,7 +12,8 @@ comments: false
 [Environmental Dashboard Software Developer](){: .btn}
 [Student Tutor](){: .btn}
 [OCTET Web Developer](){: .btn}
-[Teaching Assistant & Grader](){: .btn}
+[Teaching Assistant](){: .btn}
+[Grader](){: .btn}
 
 ## Research
 [Multi-agent Simulation & Dynamic Ride-sharing]({{site.url}}/Summer-Research){: .btn}

@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All Posts
+title: Experience
 excerpt: "A List of Posts"
 comments: false
 ---

@@ -1,7 +1,10 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Overview
+  url: /about/
 
-- title: Posts
+- title: Experience
   url: /posts/
+
+- title: Skill
+  url: /tags/

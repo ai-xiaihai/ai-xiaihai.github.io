@@ -3,7 +3,7 @@ layout: post
 title: "Multi-agent Simulation & Dynamic Ride-sharing (Summer Research 2017)"
 date: 2017-05-31
 excerpt: "With the mentorship of Prof. Adam Eck, I conducted to research to investigate the relationship between dynamic ride-sharing (e.g., Uber) and traffic congestion using multi-agent simulation (MATSim)."
-tags: [Research, Multi-Agent System, Artificial Intelligence, Java, XML]
+tags: [Research, Multi-Agent System, Artificial Intelligence, Java, XML, Computer Science]
 comments: false
 ---
 

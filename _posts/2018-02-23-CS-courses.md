@@ -11,8 +11,8 @@ comments: false
 - CSCI 383: Theory of Computation
 - CSCI 374: Machine Learning and Data Mining
 - CSCI 364: Artificial Intelligence
-- CSCI 280: Algorithms
 - CSCI 343: Computer and Information Security
+- CSCI 280: Algorithms
 - CSCI 241: Systems Programming
 - CSCI 210: Introduction to Computer Architecture
 - CSCI 151: Data Structures

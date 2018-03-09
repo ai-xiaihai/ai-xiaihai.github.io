@@ -15,7 +15,7 @@ comments: false
 - CSCI 280: Algorithms
 - CSCI 241: Systems Programming
 - CSCI 210: Introduction to Computer Architecture
-- <a href "{{site.url}}/CS151"> CSCI 151: Data Structures </a>
+- <a href="{{site.url}}/CS151"> CSCI 151: Data Structures </a>
 
 ### EdX
 - MITx 6.00.2x: Introduction to Computational Thinking and Data Science

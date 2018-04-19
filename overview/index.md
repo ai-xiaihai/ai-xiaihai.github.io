@@ -9,16 +9,16 @@ comments: false
 <center>Software Developer; AI Researcher</center>
 
 ## Software Development
-[Environmental Dashboard Software Developer]({{site.url}}/CV){: .btn}
-[OCTET Web Developer](){: .btn}
+[Environmental Dashboard Software Developer]({{site.url}}/CV){: .social-btn}
+[OCTET Web Developer](){: .btn-dark}
 
 ## Academic Research 
-[Multi-agent Simulation: Dynamic Ride-sharing & Congestion]({{site.url}}/research17){: .btn}
+[Multi-agent Simulation: Dynamic Ride-sharing & Congestion]({{site.url}}/research17){: .btn-dark}
 
 ## Teaching & Tutoring
 [Student Tutor](){: .btn}
-[Teaching Assistant]({{site.url}}/CS151){: .btn}
-[Grader]({{site.url}}/CS151){: .btn}
+[Teaching Assistant]({{site.url}}/CS151){: .btn-dark}
+[Grader]({{site.url}}/CS151){: .btn-dark}
 
 ## Education
 [BA, Oberlin College]({{site.url}}/oberlin){: .btn}

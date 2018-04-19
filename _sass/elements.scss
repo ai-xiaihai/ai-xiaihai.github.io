@@ -17,6 +17,12 @@
 	margin: 10px;
 	@extend %btnextend;
 }
+.btn-dark {
+  padding: 10px;
+  margin: 10px;
+  @extend %btnextend;
+  background-color: $color_gray;
+}
 .btn {
 	padding: 10px 18px;
 	@include font-rem(14);

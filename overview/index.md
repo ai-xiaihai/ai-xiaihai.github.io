@@ -8,18 +8,17 @@ comments: false
     
 <center>Software Developer; AI Researcher</center>
 
-## Employment
-<div markdown="0">
-	<a href="{{site.url}}/CV" class="btn btn-success">
-	Environmental Dashboard Software Developer
-</a></div>
-[Student Tutor](){: .btn}
+## Software Development
+[Environmental Dashboard Software Developer]({{site.url}}/CV){: .btn}
 [OCTET Web Developer](){: .btn}
+
+## Academic Research 
+[Multi-agent Simulation: Dynamic Ride-sharing & Congestion]({{site.url}}/research17){: .btn}
+
+## Teaching & Tutoring
+[Student Tutor](){: .btn}
 [Teaching Assistant]({{site.url}}/CS151){: .btn}
 [Grader]({{site.url}}/CS151){: .btn}
-
-## Research 
-[Multi-agent Simulation & Dynamic Ride-sharing]({{site.url}}/research17){: .btn}
 
 ## Education
 [BA, Oberlin College]({{site.url}}/oberlin){: .btn}

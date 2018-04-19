@@ -15,11 +15,11 @@ comments: false
 </a></div>
 [Student Tutor](){: .btn}
 [OCTET Web Developer](){: .btn}
-[Teaching Assistant](){: .btn}
-[Grader](){: .btn}
+[Teaching Assistant]({{site.url}}/CS151){: .btn}
+[Grader]({{site.url}}/CS151){: .btn}
 
 ## Research 
 [Multi-agent Simulation & Dynamic Ride-sharing]({{site.url}}/research17){: .btn}
 
 ## Education
-[BA, Oberlin College](){: .btn}
+[BA, Oberlin College]({{site.url}}/oberlin){: .btn}

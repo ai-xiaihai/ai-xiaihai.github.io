@@ -3,12 +3,12 @@ layout: post
 title: "Multi-agent Simulation: Dynamic Ride-sharing & Congestion (Summer 17)"
 date: 2017-05-31
 end_date: 2017-07-31
-excerpt: "With the mentorship of Prof. Adam Eck, I conducted research to investigate the relationship between dynamic ride-sharing (e.g., Uber) and traffic congestion using multi-agent simulation (MATSim)."
+excerpt: "With the mentorship of Prof. Adam Eck, I conducted to research to investigate the relationship between dynamic ride-sharing (e.g., Uber) and traffic congestion using multi-agent simulation (MATSim)."
 tags: [Research, Multi-Agent System, Artificial Intelligence, Java, XML, Computer Science]
 comments: false
 ---
 
-With the mentorship of <a href="http://www.cs.oberlin.edu/~aeck/">Prof. Adam Eck</a>, I conducted research to investigate the relationship between dynamic ride-sharing (e.g., Uber) and traffic congestion using multi-agent simulation (<a href="https://matsim.org">MATSim</a>). I ran several simple simulations based on traffic and census data from Cleveland.
+With the mentorship of <a href="http://www.cs.oberlin.edu/~aeck/">Prof. Adam Eck</a>, I conducted to research to investigate the relationship between dynamic ride-sharing (e.g., Uber) and traffic congestion using multi-agent simulation (<a href="https://matsim.org">MATSim</a>). I ran several simple simulations based on traffic and census data from Cleveland.
 
 ### Title
 Impact of Real-time Ride-sharing Software on Traffic Congestion in Metropolitan Cleveland: Multi-agent Simulation Approach

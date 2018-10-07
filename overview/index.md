@@ -14,6 +14,7 @@ comments: false
 
 ## Academic Research 
 [Multi-agent Simulation: Dynamic Ride-sharing & Congestion]({{site.url}}/research17){: .btn-dark}
+[Agent-based Modeling: Financial Credit Network]({{site.url}}/research18){: .btn-dark}
 
 ## Teaching & Tutoring
 [Student Tutor](){: .btn}

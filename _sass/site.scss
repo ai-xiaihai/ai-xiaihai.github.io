@@ -101,8 +101,8 @@ body {
 	}
 }
 .wrapper {
-	width: 75%;
-	max-width: 850px;
+	width: 90%;
+	max-width: 1200px;
 	margin: 4rem auto;
 	background: $white;
 	color: $color_tuatara;
@@ -184,19 +184,6 @@ header .entry-meta {
 	width: 70%;
     float: left;
     text-align: left;
-}
-.mini-tag {
-    display: inline-block;
-    border: 1px solid;
-    border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
-    @include rounded(3px);
-    text-decoration: none;
-    background-color: $white;
-    color: $color_tuatara;
-    @include transition(.75s);
-    margin: 2px 5px;
-    padding: 1px 2px;
-	@include font-rem(12);
 }
 .social-share {
 	display: block;

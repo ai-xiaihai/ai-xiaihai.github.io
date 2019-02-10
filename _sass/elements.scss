@@ -212,3 +212,18 @@ kbd {
     font-weight: 300;
     margin-bottom: 10px;
 }
+
+// mini-tag
+.mini-tag {
+    display: inline-block;
+    border: 1px solid;
+    border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
+    @include rounded(3px);
+    text-decoration: none;
+    background-color: $white;
+    color: $color_tuatara;
+    @include transition(.75s);
+    margin: 2px 5px;
+    padding: 1px 2px;
+  @include font-rem(12);
+}

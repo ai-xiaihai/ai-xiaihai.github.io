@@ -1,12 +1,10 @@
 ---
 layout: page
-title: An overview of Frank
+title: 
 tags: []
 date: 2018-02-23
 comments: false
 ---
-    
-<center>Software Developer; AI Researcher</center>
 
 ## Software Development
 [Environmental Dashboard Software Developer]({{site.url}}/CV){: .social-btn}

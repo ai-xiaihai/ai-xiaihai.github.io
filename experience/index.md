@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Experience
-excerpt: "A List of Posts"
+title: All Experiences
+excerpt: "Projects, Work Experiences, Research"
 comments: false
 ---

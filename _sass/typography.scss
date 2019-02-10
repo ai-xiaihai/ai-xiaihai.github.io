@@ -10,6 +10,13 @@
 	@media #{$small} {
 		padding: 0 .5em;
 	}
+	h2 {
+		margin: 0px;
+	}
+	ul {
+		margin: 0px;
+		margin-bottom: 15px;
+	}
 }
 
 // titles

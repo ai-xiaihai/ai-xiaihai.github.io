@@ -135,7 +135,7 @@ body {
 // entry meta
 .entry-meta {
 	@include font-rem(12);
-	text-transform: uppercase;
+	// text-transform: uppercase;
 	color: lighten($color_tuatara,60);
 	padding-left: 0;
 	a {

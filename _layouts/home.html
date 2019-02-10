@@ -35,7 +35,7 @@ layout: compress
 
 
      <!-- only some tags, act as categories -->
-     {% assign site_tags = "Software Engineering,Research,Education,Coursework,Project"%}
+     {% assign site_tags = "Software Engineering,Research,Project,Education,Coursework"%}
      {% assign tags_list = site_tags | split:',' %}
      <ul class="entry-meta inline-list">
       {% for item in (0..tags_list.size) %}{% unless forloop.last %}

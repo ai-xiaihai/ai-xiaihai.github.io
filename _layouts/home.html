@@ -52,7 +52,8 @@ layout: compress
   <article>
       <h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
       <ul>
-        {% for post in site.tags[this_word] %}
+        {% assign back_tags = site.tags[this_word] | reverse %}
+        {% for post in back_tags %}
             {% if post.title != null %}
             <li class="entry-title">
                 <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>

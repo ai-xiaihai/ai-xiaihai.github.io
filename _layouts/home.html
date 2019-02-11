@@ -65,7 +65,7 @@ layout: compress
 
                 <!-- put in some tags below -->
                 {% for id in (0.. num_tags) %}
-                <a href="{{ site.url }}/tag/#{{ tag }}" title="Pages tagged {{ tag }}" class="mini-tag">{{ post.tags[id] }}</a>
+                <a href="{{ site.url }}/tag/#{{ post.tags[id] }}" title="Pages tagged {{ post.tags[id] }}" class="mini-tag">{{ post.tags[id] }}</a>
                 {% unless forloop.last %}
                     {% endunless %}
                 {% endfor %}

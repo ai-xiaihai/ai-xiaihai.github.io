@@ -1,7 +1,7 @@
 # Site
 title:              Xinnan (Frank) Cheng
-bio:                'Seeking Full-time Software Engineering Opportunities'
-description:        "Xinnan Frank Cheng Software Developer Computer Science Research Oberlin"
+bio:                'Seeking Full-time Opportunities Starting June 2019'
+description:        "Xinnan Frank Cheng Software Developer Computer Science Research Economics Oberlin"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -13,7 +13,7 @@ url:
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        rouge
+highlighter:        rougeSoftware
 kramdown:
   auto_ids:         true
   footnote_nr:      1

@@ -13,7 +13,7 @@ url:
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        rougeSoftware
+highlighter:        rouge
 kramdown:
   auto_ids:         true
   footnote_nr:      1

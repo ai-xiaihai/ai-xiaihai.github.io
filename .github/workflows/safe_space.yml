@@ -9,6 +9,6 @@ jobs:
       - name: Safe space - action step
         uses: charliegerard/safe-space@master
         with:
-          GITHUB_TOKEN: ${{ 580388338b900e994023b0565025678270e10d31 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           message: "this is not my custom message"
           toxicity_threshold: 0.7

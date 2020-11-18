@@ -1,0 +1,14 @@
+on: [issue_comment, pull_request_review]
+
+jobs:
+  toxic_check:
+    runs-on: ubuntu-latest
+    name: Toxicity check
+    steps:
+      - uses: actions/checkout@v2
+      - name: Safe space - action step
+        uses: charliegerard/safe-space@master
+        with:
+          GITHUB_TOKEN: ${{ fead4525709ee626344452bf353f744eb7347389 }}
+          message: "this is not my custom message"
+          toxicity_threshold: 0.7

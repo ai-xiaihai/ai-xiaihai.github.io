@@ -1,0 +1,25 @@
+I"Y<p>Together with team members, we rebuilt Community Voices web application with Symfony web framework (PHP), following N-tier architecture, object-oriented design, Model-View-Controller and two-step view. Community Voices is a component of <a href="https://environmentaldashboard.org">Environmental Dashboard</a>. It combines images, thoughts, ideas and actions of community members and groups to celebrate and empower positive action. The application includes a multimedia display system, a login system, a content management system and a RESTful API.</p>
+
+<h3 id="programming-languages">Programming Languages</h3>
+<p>PHP, xslt</p>
+
+<h3 id="web-framework">Web Framework</h3>
+<p>Symfony</p>
+
+<h3 id="database">Database</h3>
+<p>MySql</p>
+
+<h3 id="markup-languages">Markup Languages</h3>
+<p>xml, html, json</p>
+
+<h3 id="back-end-design">Back-End Design</h3>
+<p>Object-Oriented Design, N-tier Architecture</p>
+
+<h3 id="front-end-design">Front-End Design</h3>
+<p>Model-View-Controller, Two Step View</p>
+
+<div>
+	<a href="https://github.com/jeremyfifty9/community-voices" class="btn btn-info">
+	Source Code
+</a></div>
+:ET

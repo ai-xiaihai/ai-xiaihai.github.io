@@ -1,0 +1,70 @@
+I"—<p>I have been a grader and a lab helper (TA) for this class, one semester each.</p>
+
+<h5 id="objects-and-reference-variables">Objects and reference variables</h5>
+<h5 id="introduction-to-object-oriented-programming">Introduction to Object Oriented Programming</h5>
+<h5 id="inheritance-and-generics">Inheritance and Generics</h5>
+<h5 id="java-collections">Java Collections</h5>
+<h5 id="data-structures">Data Structures</h5>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Array 
+- Lists 
+- Iterators
+- Queues
+- Stacks
+- Linked Lists
+-  Trees
+	+ General
+	+ BST
+- Balanced Trees
+	+ AVL
+	+ Red-Black
+	+ 2-3-4 Trees
+- Maps
+- Sets
+- Priority Queues
+	+ Heaps
+	+ Array based heaps
+- Tries
+- Hashtables
+- Graphs
+	+ Edge List
+	+ Adjacency Matrix
+	+ Adjacency List
+</code></pre></div></div>
+
+<h5 id="algorithm-analysis">Algorithm Analysis</h5>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Big-Oh Notation
+- Algorithm Growth
+- Classes of algorithms
+</code></pre></div></div>
+
+<h5 id="recursion">Recursion</h5>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Divide and Conquer
+- Recursive backtracking
+- Dynamic programming
+</code></pre></div></div>
+
+<h5 id="graphs-algorithms">Graphs Algorithms</h5>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Unweighted BFS
+- Positive Weighted Paths (Dijkstra's Alg.)
+- Negative Weighted Paths (Bellman-Ford Alg.)
+- Topological Sorting
+</code></pre></div></div>
+
+<h5 id="sorting-algorithms">Sorting Algorithms</h5>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Insertion 
+- Selection 
+- Bubble
+- Shell
+- Quick
+- Quickselect 
+- Heapsort
+- Lower bounds of sorting
+</code></pre></div></div>
+
+<h5 id="search-algorithms">Search Algorithms</h5>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Linear &amp; Binary Search
+- Lower bound of search
+</code></pre></div></div>
+
+<p>Note: certain topics was omitted due to time constraint.</p>
+:ET

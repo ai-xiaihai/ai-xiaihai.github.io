@@ -1,0 +1,17 @@
+I"&<h3 id="title">Title</h3>
+<p>Extending Financial Credit Network Model: Default Prediction and Strategic Improvement</p>
+
+<h3 id="abstract">Abstract</h3>
+<p>The existing Financial Credit Network (FCN) game model, which simulates the interbank credit network, suffers from an inability to recover from crises. To improve the shortcoming, we build a default probability prediction model for the banks. We utilize logistic regression and PageRank algorithm to capture the effect of banks’ investment decisions and financial contagion on bank defaults, respectively. We will then implement the default prediction model and allow banks to strategize their credit decisions based on the model. The resulting FCN model will be more realistic and give us better insight into the relationship between financial network structure and financial crises.</p>
+
+<h3 id="poster">Poster</h3>
+<figure>
+	<a href="/assets/img/posts/poster18.pdf"><img src="/assets/img/posts/poster18.pdf" /></a>
+</figure>
+
+<h3 id="laboratory">Laboratory</h3>
+<p><a href="https://strategicreasoning.org">Strategic Reasoning Group</a>: Frank Cheng, Michael Wellman</p>
+
+<h3 id="funding">Funding</h3>
+<p><a href="https://www.oberlin.edu/undergraduate-research/our-fellowships/oberlin-college-research-fellowship">Oberlin College Research Fellowship</a></p>
+:ET

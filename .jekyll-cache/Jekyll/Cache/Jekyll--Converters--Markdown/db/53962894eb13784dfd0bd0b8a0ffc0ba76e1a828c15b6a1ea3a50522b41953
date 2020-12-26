@@ -1,0 +1,16 @@
+I"x<p>Example projects:</p>
+<ul>
+  <li>Improve the customized modules: internal appointment service &amp; user directory. Migrate the modules away from the existing course management system (JavaScript) to PHP.</li>
+  <li>Troubleshoot the major student look-up system and diagnose the associating MySQL database to improve workflow for department chairs.</li>
+</ul>
+
+<div>
+	<a href="https://github.com/OCTETatOC/Blackboard-UserDirectory" class="btn btn-info">
+	User Directory Source Code
+</a></div>
+
+<div>
+	<a href="https://github.com/OCTETatOC/Blackboard-Appointments" class="btn btn-info">
+	Appointment System Source Code
+</a></div>
+:ET

@@ -1,0 +1,19 @@
+I"U<p>With the mentorship of <a href="http://www.cs.oberlin.edu/~aeck/">Prof. Adam Eck</a>, I conducted research to investigate the relationship between dynamic ride-sharing (e.g., Uber) and traffic congestion using multi-agent simulation (<a href="https://matsim.org">MATSim</a>). I ran several simple simulations based on traffic and census data from Cleveland.</p>
+
+<h3 id="title">Title</h3>
+<p>Impact of Real-time Ride-sharing Software on Traffic Congestion in Metropolitan Cleveland: Multi-agent Simulation Approach</p>
+
+<h3 id="abstract">Abstract</h3>
+<p>The use of ride-sharing services for transportation have seen explosive growth in recent years due to the ease, popularity, and ubiquity of apps such as Uber and Lyft. Although the commonly held intuition is that dynamic ride-sharing alleviates traffic congestion, there are speculated reasons why ride-sharing might actually exacerbate congestion. For instance, additional travel demand (reduced public transportation usage) due to low cost and convenience of ride-sharing and increased de facto taxi supply can both lead to more traffic. We aim to investigate such theory through multi-agent simulation (MAS), where we can test different behaviors by individual drivers and passengers to better understand the impact of ride-sharing under different scenarios of human behavior. Our simulation leverages the popular multi-agent traffic simulation framework MATSim. We will include a case study of the city of Cleveland, Ohio by basing the simulation on Cleveland map, traffic, survey and census data. This study can provide a better understanding of fast-expanding dynamic ride-sharing, and potentially lead to traffic condition improvement.</p>
+
+<h3 id="poster">Poster</h3>
+<figure>
+	<a href="/assets/img/posts/poster17.pdf"><img src="/assets/img/posts/poster17.pdf" /></a>
+</figure>
+
+<h3 id="mentor">Mentor</h3>
+<p><a href="http://www.cs.oberlin.edu/~aeck/">Professor Adam Eck</a></p>
+
+<h3 id="funding">Funding</h3>
+<p><a href="https://www.oberlin.edu/undergraduate-research/our-fellowships/oberlin-college-research-fellowship">Oberlin College Research Fellowship</a></p>
+:ET
